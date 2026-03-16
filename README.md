@@ -63,5 +63,6 @@ termiônicas ~15 a 19 bilhões de transistores
 Memória (RAM) 20 acumuladores (aprox. 
 0.05 KB) 8 GB a 16 GB
 
-https://tecnoblog.net/responde/o-que-e-eniac-conheca-a-historia-do-primeirocomputador-do-mundo/
+https://tecnoblog.net/responde/o-que-e-eniac-conheca-a-historia-do-primeiro>computador-do-mundo/
+
 https://pt.wikipedia.org/wiki/ENIAC
