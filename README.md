@@ -1,6 +1,6 @@
 # Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
-## Nome(s) dos estudante(s): felipe roosevelt duarte e matrícula(s): ________________
+## Nome(s) dos estudante(s): ________________________ e matrícula(s): ________________
 
 ## Objetivo
 Compreender a evolução das redes de computadores, identificar seus elementos básicos e classificar diferentes tipos de redes.
@@ -35,4 +35,5 @@ Cada grupo deve incluir neste repositório:
   - `classificacao_redes.pdf` ou `classificacao_redes.png`
   - `README.md` com breve descrição do trabalho.
 
+##Livro ![Livro de Rede de computadores do Tanenbaum](https://archive.org/details/tanenbaum-rede-de-computadores-6a/mode/2up)
 ---
