@@ -14,7 +14,7 @@ Cada grupo deve incluir neste repositório:
 
 ### 2. Elementos da Rede
 - Esquema ilustrando os quatro elementos fundamentais:
-  - **Emissor**
+  - **Emissor**				
   - **Receptor**
   - **Meio de Transmissão**
   - **Protocolo**
