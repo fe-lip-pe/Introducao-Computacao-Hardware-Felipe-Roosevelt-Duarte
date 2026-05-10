@@ -6,7 +6,7 @@
 Compreender a evolução das redes de computadores, identificar seus elementos básicos e classificar diferentes tipos de redes.
 
 ## Estrutura da Entrega
-Cada grupo deve incluir neste repositório:
+Caio R
 
 ### 1. Linha do Tempo
 - Representação dos principais marcos da evolução das redes (mainframes, ARPANET, TCP/IP, Internet comercial, redes móveis).
