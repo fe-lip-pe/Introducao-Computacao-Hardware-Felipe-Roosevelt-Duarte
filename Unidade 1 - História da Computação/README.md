@@ -1,7 +1,5 @@
 # 💻 História e Evolução dos Computadores
 
-![Computadores](https://upload.wikimedia.org/wikipedia/commons/5/5f/ENIAC-changing_a_tube.jpg)
-
 ## 📖 Sobre o Projeto
 
 Este repositório apresenta um resumo sobre a história e a evolução dos computadores, mostrando como a tecnologia passou de máquinas gigantescas para dispositivos compactos e extremamente poderosos que utilizamos diariamente.
@@ -40,8 +38,6 @@ Nesta geração surgiram os **transistores**, substituindo as válvulas.
 - Computadores menores;
 - Mais confiáveis.
 
-![Transistor](https://upload.wikimedia.org/wikipedia/commons/3/31/Transistors.agr.jpg)
-
 ---
 
 ## 🔹 Terceira Geração (1964 - 1971)
@@ -54,8 +50,6 @@ A terceira geração foi marcada pelo surgimento dos **Circuitos Integrados (CI)
 - Computadores menores;
 - Menor custo de fabricação;
 - Surgimento dos primeiros sistemas operacionais modernos.
-
-![Circuito Integrado](https://upload.wikimedia.org/wikipedia/commons/6/6d/Integrated_circuit.jpg)
 
 ---
 
@@ -91,8 +85,6 @@ A quinta geração é caracterizada pelo uso de tecnologias inteligentes.
 - ⚛️ Computação Quântica
 - 🌐 Internet das Coisas (IoT)
 
-![IA](https://upload.wikimedia.org/wikipedia/commons/6/6f/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg)
-
 ---
 
 # 📈 Evolução dos Computadores
@@ -104,42 +96,28 @@ A quinta geração é caracterizada pelo uso de tecnologias inteligentes.
 | 3ª | Circuitos Integrados | 1964–1971 |
 | 4ª | Microprocessadores | 1971–Hoje |
 | 5ª | Inteligência Artificial | Atualidade |
-
 ---
-
 # 🚀 Principais Marcos
 
 ✅ Criação do ENIAC
-
 ✅ Invenção do transistor
-
 ✅ Desenvolvimento dos Circuitos Integrados
-
 ✅ Criação do Microprocessador
-
 ✅ Popularização dos Computadores Pessoais
-
 ✅ Surgimento da Internet
-
 ✅ Inteligência Artificial
-
 ---
-
 # 🎯 Conclusão
 
 A evolução dos computadores transformou completamente a sociedade. O que antes ocupava salas inteiras hoje cabe no bolso, oferecendo desempenho milhares de vezes superior. Atualmente, áreas como Inteligência Artificial, Computação em Nuvem e Computação Quântica continuam impulsionando essa evolução.
-
 ---
-
 # 📚 Referências
 
 - https://pt.wikipedia.org/wiki/Hist%C3%B3ria_da_computa%C3%A7%C3%A3o
 - https://pt.wikipedia.org/wiki/Computador
 - https://pt.wikipedia.org/wiki/ENIAC
 - https://pt.wikipedia.org/wiki/Microprocessador
-
 ---
-
 ## 👨‍💻 Autor
 
 **Felipe Roosevelt Duarte**
