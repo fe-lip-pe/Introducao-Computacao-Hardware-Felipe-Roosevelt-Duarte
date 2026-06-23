@@ -1,6 +1,6 @@
 # 🏢 Aspectos de Governança e Gestão de TI
 
-![Governança de TI](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Business_Process_Model.svg/800px-Business_Process_Model.svg.png)
+
 
 ## 📖 Sobre o Projeto
 
